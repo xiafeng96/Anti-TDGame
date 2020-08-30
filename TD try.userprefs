@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Turret.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="24" Column="32" />
+      <File FileName="Assets\Scripts\Node.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\NodeManager.cs" Line="23" Column="22" />
+      <File FileName="Assets\Scripts\EnemySpawner.cs" Line="56" Column="3" />
+      <File FileName="Assets\Scripts\Waypoint.cs" Line="36" Column="2" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="80" Column="25" />
+      <File FileName="Assets\Scripts\SkillTree.cs" Line="164" Column="1" />
+      <File FileName="Assets\Scripts\MenuManager.cs" Line="31" Column="49" />
+      <File FileName="Assets\Scripts\SkillButtonIntro.cs" Line="19" Column="15" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="85" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
